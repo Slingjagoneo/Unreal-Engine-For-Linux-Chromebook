@@ -1,0 +1,6 @@
+sudo apt update
+sudo apt-get update   or   sudo apt-get update
+sudo dpkg --add-architecture i386
+sudo apt install libc6-i386   or   sudo apt-get install --reinstall libgl1-mesa-glx:i386   or   sudo apt-get install libgl1-mesa-dri:i386 libgl1-mesa-glx:i386 libc6:i386
+sudo apt-get install ue4   or   sudo apt-get install unreal-engine 4
+That's all folks!
